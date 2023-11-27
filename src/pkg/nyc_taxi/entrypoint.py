@@ -19,7 +19,7 @@ run_training(
         "bagging_seed": 42,
         "verbosity": -1,
         "seed": 42,
-        "num_rounds": 100
+        "num_rounds": 200
     }
 )
 from registration import run_registration
